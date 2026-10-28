@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\ui\\textblock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\ui\\textblock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\ui\\combobox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\ui\\combobox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\theme\\default.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\theme\\default.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\theme\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\theme\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\ui\\processbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\ui\\processbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\ui\\radiobutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\ui\\radiobutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\ui\\wrappannel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\ui\\wrappannel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\ui\\tm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\ui\\tm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|c:\\users\\st310-07\\desktop\\sokolov\\prakt6_koscheev\\style\\ui\\checkbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FBDCBA6-18FD-4D8C-B68E-2E4059F8BE8D}|prakt6_koscheev.csproj|solutionrelative:style\\ui\\checkbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 494,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:03:42.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComboBox.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\ComboBox.xaml",
+              "RelativeDocumentMoniker": "style\\ui\\ComboBox.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\ComboBox.xaml",
+              "RelativeToolTip": "style\\ui\\ComboBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:20:15.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\ThemeHelper.cs",
+              "RelativeDocumentMoniker": "ThemeHelper.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\ThemeHelper.cs",
+              "RelativeToolTip": "ThemeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:23:11.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:25:13.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:03:44.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextBlock.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\TextBlock.xaml",
+              "RelativeDocumentMoniker": "style\\ui\\TextBlock.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\TextBlock.xaml",
+              "RelativeToolTip": "style\\ui\\TextBlock.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:21:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RadioButton.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\RadioButton.xaml",
+              "RelativeDocumentMoniker": "style\\ui\\RadioButton.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\RadioButton.xaml",
+              "RelativeToolTip": "style\\ui\\RadioButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:21:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProcessBar.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\ProcessBar.xaml",
+              "RelativeDocumentMoniker": "style\\ui\\ProcessBar.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\ProcessBar.xaml",
+              "RelativeToolTip": "style\\ui\\ProcessBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:20:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\Button.xaml",
+              "RelativeDocumentMoniker": "style\\ui\\Button.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\Button.xaml",
+              "RelativeToolTip": "style\\ui\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:18:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "default.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\theme\\default.xaml",
+              "RelativeDocumentMoniker": "style\\theme\\default.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\theme\\default.xaml",
+              "RelativeToolTip": "style\\theme\\default.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:13:06.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dark.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\theme\\dark.xaml",
+              "RelativeDocumentMoniker": "style\\theme\\dark.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\theme\\dark.xaml",
+              "RelativeToolTip": "style\\theme\\dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:05:01.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WrapPannel.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\WrapPannel.xaml",
+              "RelativeDocumentMoniker": "style\\ui\\WrapPannel.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\WrapPannel.xaml",
+              "RelativeToolTip": "style\\ui\\WrapPannel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:22:11.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:22:33.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T10:10:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "tm.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\tm.xaml",
+              "RelativeDocumentMoniker": "style\\ui\\tm.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\tm.xaml",
+              "RelativeToolTip": "style\\ui\\tm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:30:04.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckBox.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\CheckBox.xaml",
+              "RelativeDocumentMoniker": "style\\ui\\CheckBox.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\Sokolov\\prakt6_koscheev\\style\\ui\\CheckBox.xaml",
+              "RelativeToolTip": "style\\ui\\CheckBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:19:41.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

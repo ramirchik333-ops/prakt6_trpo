@@ -1,0 +1,21 @@
+﻿<Application x:Class="prakt6_koscheev.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:prakt6_koscheev"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/style/theme/default.xaml"/>
+                <ResourceDictionary Source="/style/ui/Button.xaml"/>
+                <ResourceDictionary Source="/style/ui/RadioButton.xaml"/>
+                <ResourceDictionary Source="/style/ui/TextBlock.xaml"/>
+                <ResourceDictionary Source="/style/ui/CheckBox.xaml"/>
+                <ResourceDictionary Source="/style/ui/ComboBox.xaml"/>
+                <ResourceDictionary Source="/style/ui/ProcessBar.xaml"/>
+                <ResourceDictionary Source="/style/ui/WrapPannel.xaml"/>
+                <ResourceDictionary Source="/style/ui/tm.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
